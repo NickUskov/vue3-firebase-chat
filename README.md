@@ -1,24 +1,9 @@
-# chat
+# Чат на vue 3 с использованием firebase realtime database
+* [Deployed here](https://nickuskov.github.io/vue3-firebase-chat/)
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
